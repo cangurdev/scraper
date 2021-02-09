@@ -6,9 +6,13 @@ Case study
 
 clone repository using git
 
-```git clone https://github.com/cvngur/scraper```
-### Installing libraries
-```pip install -r requirements.txt```
+```
+git clone https://github.com/cvngur/scraper
+```
+### Installing packages
+```
+pip install -r requirements.txt
+```
 ## Stack
 
 - Python
