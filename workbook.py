@@ -12,11 +12,11 @@ dest_filename = 'results.xlsx'
 
 #Setting columns width
 newSheet.column_dimensions["A"].width = 75.0
-newSheet.column_dimensions["B"].width = 20.0
+newSheet.column_dimensions["B"].width = 18.0
 newSheet.column_dimensions["C"].width = 35.0
 newSheet.column_dimensions["D"].width = 20.0
 newSheet.column_dimensions["E"].width = 10.0
-newSheet.column_dimensions["F"].width = 30.0
+newSheet.column_dimensions["F"].width = 12.0
 
 #Setting columns name
 newSheet['A1'] = "URL"
